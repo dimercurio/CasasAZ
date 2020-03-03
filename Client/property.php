@@ -60,10 +60,10 @@
               <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
                 <ul class="site-menu main-menu js-clone-nav ml-auto ">
                   <li class="active"><a href="index.php" class="nav-link">Home</a></li>
-                  <!-- <li><a href="agents.html" class="nav-link">Agents</a></li> -->
-                  <!-- <li><a href="property.html" class="nav-link">Property</a></li> -->
+                  <!-- <li><a href="agents.php" class="nav-link">Agents</a></li> -->
+                  <!-- <li><a href="property.php" class="nav-link">Property</a></li> -->
                   <li><a href="about.php" class="nav-link">About</a></li>
-                  <!-- <li><a href="blog.html" class="nav-link">Blog</a></li> -->
+                  <!-- <li><a href="blog.php" class="nav-link">Blog</a></li> -->
                   <li><a href="contact.php" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
@@ -253,7 +253,7 @@
 
           <div class="col-md-4 mb-5">
             <div class="media-38289">
-              <a href="property-single.html" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
+              <a href="property-single.php" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
               <div class="text">
                 <div class="d-flex justify-content-between mb-3">
                   <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen"></span> <span>2911 Sq Ft.</span></div>
@@ -267,7 +267,7 @@
           </div>
           <div class="col-md-4 mb-5">
             <div class="media-38289">
-            <a href="property-single.html" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
+            <a href="property-single.php" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
             <div class="text">
               <div class="d-flex justify-content-between mb-3">
                 <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen"></span> <span>2911 Sq Ft.</span></div>
@@ -281,7 +281,7 @@
           </div>
           <div class="col-md-4 mb-5">
             <div class="media-38289">
-              <a href="property-single.html" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
+              <a href="property-single.php" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
               <div class="text">
                 <div class="d-flex justify-content-between mb-3">
                   <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen"></span> <span>2911 Sq Ft.</span></div>
@@ -296,7 +296,7 @@
 
           <div class="col-md-4 mb-5">
             <div class="media-38289">
-              <a href="property-single.html" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
+              <a href="property-single.php" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
               <div class="text">
                 <div class="d-flex justify-content-between mb-3">
                   <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen"></span> <span>2911 Sq Ft.</span></div>
@@ -310,7 +310,7 @@
           </div>
           <div class="col-md-4 mb-5">
             <div class="media-38289">
-            <a href="property-single.html" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
+            <a href="property-single.php" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
             <div class="text">
               <div class="d-flex justify-content-between mb-3">
                 <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen"></span> <span>2911 Sq Ft.</span></div>
@@ -324,7 +324,7 @@
           </div>
           <div class="col-md-4 mb-5">
             <div class="media-38289">
-              <a href="property-single.html" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
+              <a href="property-single.php" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
               <div class="text">
                 <div class="d-flex justify-content-between mb-3">
                   <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen"></span> <span>2911 Sq Ft.</span></div>

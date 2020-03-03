@@ -61,10 +61,10 @@
               <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
                 <ul class="site-menu main-menu js-clone-nav ml-auto ">
                   <li class="active"><a href="index.php" class="nav-link">Home</a></li>
-                  <!-- <li><a href="agents.html" class="nav-link">Agents</a></li> -->
-                  <!-- <li><a href="property.html" class="nav-link">Property</a></li> -->
+                  <!-- <li><a href="agents.php" class="nav-link">Agents</a></li> -->
+                  <!-- <li><a href="property.php" class="nav-link">Property</a></li> -->
                   <li><a href="about.php" class="nav-link">About</a></li>
-                  <!-- <li><a href="blog.html" class="nav-link">Blog</a></li> -->
+                  <!-- <li><a href="blog.php" class="nav-link">Blog</a></li> -->
                   <li><a href="contact.php" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
@@ -354,7 +354,7 @@
 
         <div class="owl-carousel nonloop-block-14">
           <div class="media-38289">
-            <a href="property-single.html" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
+            <a href="property-single.php" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
             <div class="text">
               <div class="d-flex justify-content-between mb-3">
                 <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen
@@ -368,7 +368,7 @@
           </div>
 
           <div class="media-38289">
-            <a href="property-single.html" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
+            <a href="property-single.php" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
             <div class="text">
               <div class="d-flex justify-content-between mb-3">
                 <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen
@@ -382,7 +382,7 @@
           </div>
 
           <div class="media-38289">
-              <a href="property-single.html" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
+              <a href="property-single.php" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
               <div class="text">
                 <div class="d-flex justify-content-between mb-3">
                   <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen
@@ -397,7 +397,7 @@
 
 
           <div class="media-38289">
-            <a href="property-single.html" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
+            <a href="property-single.php" class="d-block"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
             <div class="text">
               <div class="d-flex justify-content-between mb-3">
                 <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen
@@ -411,7 +411,7 @@
           </div>
 
           <div class="media-38289">
-            <a href="property-single.html" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
+            <a href="property-single.php" class="d-block"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
             <div class="text">
               <div class="d-flex justify-content-between mb-3">
                 <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen
@@ -425,7 +425,7 @@
           </div>
 
           <div class="media-38289">
-              <a href="property-single.html" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
+              <a href="property-single.php" class="d-block"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
               <div class="text">
                 <div class="d-flex justify-content-between mb-3">
                   <div class="sq d-flex align-items-center"><span class="wrap-icon icon-fullscreen
@@ -643,13 +643,13 @@
           
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="post-entry-1 h-100">
-              <a href="single.html">
+              <a href="single.php">
                 <img src="images/img_1.jpg" alt="Image"
                  class="img-fluid">
               </a>
               <div class="post-entry-1-contents">
                 
-                <h2><a href="single.html">Lorem ipsum dolor sit amet</a></h2>
+                <h2><a href="single.php">Lorem ipsum dolor sit amet</a></h2>
                 <span class="meta d-inline-block mb-3">July 17, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur.</p>
               </div>
@@ -657,13 +657,13 @@
           </div>
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="post-entry-1 h-100">
-              <a href="single.html">
+              <a href="single.php">
                 <img src="images/img_2.jpg" alt="Image"
                  class="img-fluid">
               </a>
               <div class="post-entry-1-contents">
                 
-                <h2><a href="single.html">Lorem ipsum dolor sit amet</a></h2>
+                <h2><a href="single.php">Lorem ipsum dolor sit amet</a></h2>
                 <span class="meta d-inline-block mb-3">July 17, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur.</p>
               </div>
@@ -672,13 +672,13 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="post-entry-1 h-100">
-              <a href="single.html">
+              <a href="single.php">
                 <img src="images/img_3.jpg" alt="Image"
                  class="img-fluid">
               </a>
               <div class="post-entry-1-contents">
                 
-                <h2><a href="single.html">Lorem ipsum dolor sit amet</a></h2>
+                <h2><a href="single.php">Lorem ipsum dolor sit amet</a></h2>
                 <span class="meta d-inline-block mb-3">July 17, 2019 <span class="mx-2">by</span> <a href="#">Admin</a></span>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur.</p>
               </div>

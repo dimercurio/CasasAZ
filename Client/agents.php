@@ -59,11 +59,11 @@
 
               <nav class="site-navigation text-right ml-auto d-none d-lg-block" role="navigation">
                 <ul class="site-menu main-menu js-clone-nav ml-auto ">
-                  <li><a href="index.php" class="nav-link">Home</a></li>
-                  <!-- <li><a href="agents.html" class="nav-link">Agents</a></li> -->
-                  <!-- <li><a href="property.html" class="nav-link">Property</a></li> -->
-                  <li class="active"><a href="about.php" class="nav-link">About</a></li>
-                  <!-- <li><a href="blog.html" class="nav-link">Blog</a></li> -->
+                  <li class="active"><a href="index.php" class="nav-link">Home</a></li>
+                  <!-- <li><a href="agents.php" class="nav-link">Agents</a></li> -->
+                  <!-- <li><a href="property.php" class="nav-link">Property</a></li> -->
+                  <li><a href="about.php" class="nav-link">About</a></li>
+                  <!-- <li><a href="blog.php" class="nav-link">Blog</a></li> -->
                   <li><a href="contact.php" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
@@ -76,11 +76,11 @@
       </header>
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/hero.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-7">
-              <h1 class="mb-2">About Us</h1>
+              <h1 class="mb-2">Our Agents</h1>
               <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta cupiditate ipsum porro, deserunt iure vel aliquam, eos quaerat.</p>
             </div>
           </div>
@@ -90,32 +90,10 @@
     
     
 
+    
     <div class="site-section">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-6 mb-5 mb-lg-0">
-            <div class="img-years">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-5 ml-auto pl-lg-5 text-center">
-            <h3 class="text-center mb-4">Real Estate Co.</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sint consectetur nihil eius harum, recusandae? Quam, placeat, asperiores.</p>
-            <p class="mt-5"><a href="#" class="btn btn-primary text-white">Contact Us</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- <div class="site-section">
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-6 text-center">
-            <h3 class="heading-29201 text-center">Leadership</h3>
-            
-            <p class="mb-5">Perspiciatis quidem, harum provident, repellat sint officia quos fugit tempora id deleniti.</p>
-          </div>
-        </div>
+        
         <div class="row">
           <div class="col-md-4 mb-5">
             <div class="person-29381">
@@ -205,7 +183,7 @@
           
         </div>
       </div>
-    </div> -->
+    </div>
 
 
     <div class="site-section bg-primary">
@@ -292,7 +270,7 @@
             <div class="border-top pt-5">
               <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>
