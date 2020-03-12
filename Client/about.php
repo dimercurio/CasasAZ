@@ -99,7 +99,7 @@
             </div>
           </div>
           <div class="col-lg-5 ml-auto pl-lg-5 text-center">
-            <h3 class="text-center mb-4">Real Estate Co.</h3>
+            <h3 class="text-center mb-4">Casas AZ</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sint consectetur nihil eius harum, recusandae? Quam, placeat, asperiores.</p>
             <p class="mt-5"><a href="#" class="btn btn-primary text-white">Contact Us</a></p>
           </div>
@@ -208,7 +208,7 @@
     </div> -->
 
 
-    <div class="site-section bg-primary">
+    <!-- <div class="site-section bg-primary">
       <div class="container block-13">
         <div class="nonloop-block-13 owl-carousel">
           <div class="testimonial-38920 d-flex align-items-start">
@@ -257,7 +257,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
 
     
@@ -265,21 +265,21 @@
     <footer class="site-footer">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <h3 class="text-white h5 mb-3">Subscribe</h3>
             <form action="" class="d-flex">
               <input type="text" class="form-control mr-3" placeholder="Enter your email">
               <input type="submit" class="btn btn-primary text-white" value="Send Now">
             </form>
-          </div>
+          </div> -->
           <div class="col-md-3 ml-auto">
             <h3 class="text-white h5 mb-3">Subscribe</h3>
             <ul class="list-unstyled menu-arrow">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Testimonials</a></li>
-              <li><a href="#">Terms of Service</a></li>
-              <li><a href="#">Privacy</a></li>
-              <li><a href="#">Contact Us</a></li>
+              <li><a href="/Client/index.php">Home</a></li>
+              <!-- <li><a href="#">Testimonials</a></li> -->
+              <!-- <li><a href="#">Terms of Service</a></li> -->
+              <!-- <li><a href="#">Privacy</a></li> -->
+              <li><a href="/Client/contact.php">Contact</a></li>
             </ul>
           </div>
           <div class="col-md-4">

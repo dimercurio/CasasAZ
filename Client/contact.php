@@ -134,10 +134,10 @@
               <h3 class="text-black mb-4">Contact Info</h3>
               <ul class="list-unstyled footer-link">
                 <li class="d-block mb-3">
-                  <span class="d-block text-black">Address:</span>
-                  <span>34 Street Name, City Name Here, United States</span></li>
-                <li class="d-block mb-3"><span class="d-block text-black">Phone:</span><span>+1 242 4942 290</span></li>
-                <li class="d-block mb-3"><span class="d-block text-black">Email:</span><span>info@yourdomain.com</span></li>
+                <span class="d-block text-black">Address:</span>
+                  <span>946 S. Stapley Dr. Suite 102 Mesa, AZ 85204</span></li>
+                <li class="d-block mb-3"><span class="d-block text-black">Office:</span><span>(480) 835-1806</span></li>
+                <li class="d-block mb-3"><span class="d-block text-black">Mobile:</span><span>(480)560-5055</span></li>
               </ul>
             </div>
           </div>
@@ -151,21 +151,21 @@
     <footer class="site-footer">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <h3 class="text-white h5 mb-3">Subscribe</h3>
             <form action="" class="d-flex">
               <input type="text" class="form-control mr-3" placeholder="Enter your email">
               <input type="submit" class="btn btn-primary text-white" value="Send Now">
             </form>
-          </div>
+          </div> -->
           <div class="col-md-3 ml-auto">
-            <h3 class="text-white h5 mb-3">Subscribe</h3>
+            <!-- <h3 class="text-white h5 mb-3">Subscribe</h3> -->
             <ul class="list-unstyled menu-arrow">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Testimonials</a></li>
-              <li><a href="#">Terms of Service</a></li>
-              <li><a href="#">Privacy</a></li>
-              <li><a href="#">Contact Us</a></li>
+              <li><a href="/Client/about.php">About Us</a></li>
+              <!-- <li><a href="#">Testimonials</a></li> -->
+              <!-- <li><a href="#">Terms of Service</a></li> -->
+              <!-- <li><a href="#">Privacy</a></li> -->
+              <li><a href="/Client/contact.php">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-md-4">
