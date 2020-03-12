@@ -704,11 +704,11 @@
           <div class="col-md-3 ml-auto">
             <h3 class="text-white h5 mb-3">Subscribe</h3>
             <ul class="list-unstyled menu-arrow">
-              <li><a href="/about.php">About</a></li>
+              <li><a href="about.php">About</a></li>
               <!-- <li><a href="#">Testimonials</a></li> -->
               <!-- <li><a href="#">Terms of Service</a></li> -->
               <!-- <li><a href="#">Privacy</a></li> -->
-              <li><a href="/contact.php">Contact</a></li>
+              <li><a href="contact.php">Contact</a></li>
             </ul>
           </div>
           <div class="col-md-4">
