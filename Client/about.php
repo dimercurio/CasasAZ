@@ -101,7 +101,7 @@
           <div class="col-lg-5 ml-auto pl-lg-5 text-center">
             <h3 class="text-center mb-4">Casas AZ</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sint consectetur nihil eius harum, recusandae? Quam, placeat, asperiores.</p>
-            <p class="mt-5"><a href="#" class="btn btn-primary text-white">Contact Us</a></p>
+            <p class="mt-5"><a href="contact.php" class="btn btn-primary text-white">Contact</a></p>
           </div>
         </div>
       </div>
