@@ -1,6 +1,10 @@
-
+$('#btn_SubmitContact').click(function(e){
+    e.preventDefault();
+    submitContactForm();
+});
     
 function submitContactForm() {
+    
     // var firstName = document.getElementById("firstName").value;
     var firstName = $('input[name="firstName"]').val();
     var lastName = $('input[name="lastName"]').val();
@@ -15,7 +19,7 @@ function submitContactForm() {
     // AJAX code to submit form.
         $.ajax({
             type: "POST",
-            url: "/sendEmail.php",
+            url: "/Client/sendEmail.php",
             data: dataString,
             cache: false,
             success: function(html) {

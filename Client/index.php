@@ -607,7 +607,7 @@
               </div>
               <div class="form-group row">
                 <div class="col-md-6 mr-auto">
-                  <input type="submit" value="Submit" onclick="submitContactForm()" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
+                  <input type="submit" value="Submit" id="btn_SubmitContact" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
                 </div>
               </div>
             </form>
