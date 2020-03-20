@@ -1,12 +1,12 @@
 <?php
 
-$firstName = $_POST['firstName1'];
-$lastName = $_POST['lastName1'];
-$mailFrom = $_POST['emailAddress1'];
-$phoneNumber = $_POST['phoneNumber1'];
-$message = $_POST['userMessage1'];
+$firstName = $_POST['firstName'];
+$lastName = $_POST['lastName'];
+$mailFrom = $_POST['emailAddress'];
+$phoneNumber = $_POST['phoneNumber'];
+$message = $_POST['userMessage'];
 
-$mailTo = "cbgprocessing@gmail.com";
+$mailTo = "ddimercurio126@gmail.com";
 $headers = "From: " . $mailFrom;
 
 

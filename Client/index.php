@@ -578,7 +578,7 @@
       </div>
         <div class="row">
           <div class="col-lg-8 mb-5" >
-            <form action="sendEmail.php" method="post">
+            <form action="sendEmail.php" method="post" id="contactForm">
               <div class="form-group row">
                 <div class="col-md-6 mb-4 mb-lg-0">
                   <input type="text" class="form-control" name="firstName" placeholder="First name">
